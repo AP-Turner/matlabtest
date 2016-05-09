@@ -1,6 +1,6 @@
 
 function[CT Uh Uta Utb Uua Uub UL Csys Efah T Lt Csys2]=func_cycle_time(Y,A,Cmh,Vh,Efmax,TRh,Iht,Vt,Dt,St,Nt,Thta,Ttua,Cmu,Lu)
-
+%Look I'm changing comments in a file
 
 % AT 3/10/16
 %From Buckmaster's cycle analysis and ASABE 495
